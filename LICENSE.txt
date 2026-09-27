@@ -1,0 +1,6 @@
+Copyright (c) 2026 Dominic (Amanda Andrade). Todos os direitos reservados.
+
+Este protótipo é disponibilizado exclusivamente para avaliação da proposta
+comercial apresentada à Big Fritas no Cone. Não é permitido copiar, reutilizar,
+redistribuir, publicar ou derivar trabalhos deste código sem autorização por
+escrito da autora.
